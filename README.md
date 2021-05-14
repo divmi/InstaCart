@@ -2,6 +2,7 @@
 CMPE-255 Main Project Team-8
 This repository is for the project-Instacart Market Basket Analysis. It consists of data cleaning, exploratory data analysis,data visualization and machine learning algorithms developed for the project.
 
+
 # Project Team Members:
 Akhila Kumari Puppala - akhila.puppala@sjsu.edu
 
@@ -10,7 +11,7 @@ Ashwin Kumar - ashwin.kumar01@sjsu.edu
 Divya Mittal - divya.mittal@sjsu.edu
 
 
-Steps to run the project:
+# Steps to run the project:
 
 Clone the repository into your local directory
 
