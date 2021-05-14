@@ -19,10 +19,10 @@ The project is divided into 3 parts which includes creating segmentation of user
 With the information collected we must have a way to paint a picture of that data so we can interpret it. Data visualization gives us a clear idea of what the information means by giving it visual context through maps or graphs. Provided data is explored using graphs and word clouds.
 
 # file-2 : CustomerSegmentation.ipynb
-Here, we identified the users based on their habits and preferences. The users average is calculated based on their rate of ordering from different aisles. The data is sent to different algorithms to segment the customers. Algorithms used for this process are Kmeans, Agglomerative and MinibatchKMeans. The data is then converted into a csv.
+Here, we identified the users based on their habits and preferences. The users average is calculated based on their rate of ordering from different aisles. The data is sent to different algorithms to segment the customers. Algorithms used for this process are Kmeans, Agglomerative and MinibatchKMeans. The data is then converted into a csv. Output of this file can be found in #clusters Folder
 
 # file-3: Association Rules For clusters.ipynb
-The generated csv file from file-1 is processed by Apriori algorithm and association rules algorithm and generated csv file containing rules in the second step.
+The generated csv file from file-1 is processed by Apriori algorithm and association rules algorithm and generated csv file containing rules.Output of this file can be found in #Association Rules Folder
 
 # file-4: Recommendation_System.ipynb
 Here, the Apriori data is used in making a recommendation system by using Natural language Processing algorithms and Classification Models.
