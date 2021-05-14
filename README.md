@@ -13,9 +13,13 @@ Divya Mittal - divya.mittal@sjsu.edu
 Steps to run the project:
 
 Clone the repository into your local directory
+
 Open Google Colab or Jupyter Noetbooks
+
 Upload the .ipynb file
+
 Download the dataset and upload in the google colab local directory
+
 Execute the code
 
 # Data Sources:
