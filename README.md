@@ -2,6 +2,21 @@
 CMPE-255 Main Project Team-8
 This repository is for the project-Instacart Market Basket Analysis. It consists of data cleaning, exploratory data analysis,data visualization and machine learning algorithms developed for the project.
 
+# Project Team Members:
+Akhila Kumari Puppala - akhila.puppala@sjsu.edu
+
+Ashwin Kumar - ashwin.kumar01@sjsu.edu
+
+Divya Mittal - divya.mittal@sjsu.edu
+
+
+Steps to run the project:
+
+Clone the repository into your local directory
+Open Google Colab or Jupyter Noetbooks
+Upload the .ipynb file
+Download the dataset and upload in the google colab local directory
+Execute the code
 
 # Data Sources:
 Instacart open-sourced 3 Million of their Instacart Orders. This data is also available on Kaggle: https://www.kaggle.com/c/instacart-market-basket-analysis/data
